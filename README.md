@@ -25,3 +25,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/min-steps-in-infinite-grid/
 
 ---
+
+### Question 3
+
+<p>Add one To Number represented By array
+</p>
+
+> Answer : [Add One TO Number](https://github.com/15999shivam/interviewQuestion/blob/master/interviewbit/addOneToNumber.cpp)
+
+> Link: https://www.interviewbit.com/problems/add-one-to-number/
+
+---
