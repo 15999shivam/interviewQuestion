@@ -14,3 +14,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.youtube.com/watch?v=c0OMPDLef08&list=PLNmW52ef0uwsjnM06LweaYEZr-wjPKBnj
 
 ---
+
+### Question 2
+
+<p>Min steps in infinite Grid.
+</p>
+
+> Answer : [MinStepsInfiniteGrid](https://github.com/15999shivam/interviewQuestion/blob/master/interviewbit/MinStepsInfiniteGrid.cpp)
+
+> Link: https://www.interviewbit.com/problems/min-steps-in-infinite-grid/
+
+---
