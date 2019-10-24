@@ -36,3 +36,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/add-one-to-number/
 
 ---
+
+### Question 4
+
+<p>Pascal Triangle
+</p>
+
+> Answer : [Pascal Triangle](https://github.com/15999shivam/interviewQuestion/blob/master/interviewbit/PascalTriangle.cpp)
+
+> Link: https://www.interviewbit.com/problems/pascal-triangle/
+
+---
