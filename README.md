@@ -58,3 +58,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/wave-array/
 
 ---
+
+### Question 6
+
+<p>Set Matrix Zeros
+</p>
+
+> Answer : [Set Matrix Zeros](https://github.com/15999shivam/interviewQuestion/blob/master/interviewbit/SetMatrixZeros.cpp)
+
+> Link: https://www.interviewbit.com/problems/set-matrix-zeros/
+
+---
