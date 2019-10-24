@@ -47,3 +47,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/pascal-triangle/
 
 ---
+
+### Question 5
+
+<p>Wave Array: arrange the elements in array like wave ( [ 1, 0, 1, 2 ] )
+</p>
+
+> Answer : [Wave Array](https://github.com/15999shivam/interviewQuestion/blob/master/interviewbit/WaveArray.cpp)
+
+> Link: https://www.interviewbit.com/problems/wave-array/
+
+---
