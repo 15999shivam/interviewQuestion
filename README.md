@@ -69,3 +69,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/set-matrix-zeros/
 
 ---
+
+### Question 7
+
+<p>First Missing Integer
+</p>
+
+> Answer : [First Missing Integer](https://github.com/15999shivam/interviewQuestion/blob/master/interviewbit/FirstMissingInteger.cpp)
+
+> Link: https://www.interviewbit.com/problems/first-missing-integer/
+
+---
