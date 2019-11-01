@@ -102,3 +102,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/
 
 ---
+
+### Question 10
+
+<p>Sort by Color
+</p>
+
+> Answer : [Sort by Color](https://github.com/15999shivam/interviewQuestion/blob/master/SortByColor.cpp)
+
+> Link: https://www.interviewbit.com/problems/sort-by-color/
+
+---
