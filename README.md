@@ -80,3 +80,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/first-missing-integer/
 
 ---
+
+### Question 8
+
+<p>Diff k: find if diffrence of k exists in sorted array or not
+</p>
+
+> Answer : [Diff K](https://github.com/15999shivam/interviewQuestion/blob/master/interviewbit/DiffK.cpp)
+
+> Link: https://www.interviewbit.com/problems/diffk/
+
+---
