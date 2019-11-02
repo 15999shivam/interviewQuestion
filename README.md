@@ -146,3 +146,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/remove-element-from-array/
 
 ---
+
+### Question 13
+
+<p>Find Permutation
+</p>
+
+> Answer : [Find Permutation](https://github.com/15999shivam/interviewQuestion/blob/master/FindPermutation.cpp)
+
+> Link: https://www.interviewbit.com/problems/find-permutation/
+
+---
