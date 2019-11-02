@@ -157,3 +157,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/find-permutation/
 
 ---
+
+### Question 14
+
+<p>Max Continuous Series of 1s
+</p>
+
+> Answer : [Max Continuous Series of 1s](https://github.com/15999shivam/interviewQuestion/blob/master/MaxContinousSeriesOf1.cpp)
+
+> Link: https://www.interviewbit.com/problems/max-continuous-series-of-1s/
+
+---
