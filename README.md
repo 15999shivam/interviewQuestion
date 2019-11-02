@@ -124,3 +124,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
 
 ---
+
+### Question 12
+
+<p>Remove Duplicates from Sorted Array II
+</p>
+
+> Answer : [Remove Duplicates from Sorted Array II](https://github.com/15999shivam/interviewQuestion/blob/master/RemoveDuplicatesFromArray2.cpp)
+
+> Link: https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array-ii/
+
+---
