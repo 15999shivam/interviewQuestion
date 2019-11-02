@@ -113,3 +113,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/sort-by-color/
 
 ---
+
+### Question 11
+
+<p>Remove Duplicates from Sorted Array
+</p>
+
+> Answer : [Remove Duplicates from Sorted Array](https://github.com/15999shivam/interviewQuestion/blob/master/RemoveDuplicatesFromArray.cpp)
+
+> Link: https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/
+
+---
