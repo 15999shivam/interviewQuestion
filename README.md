@@ -179,3 +179,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/fizzbuzz/
 
 ---
+
+### Question 16
+
+<p>Palindrome Integer
+</p>
+
+> Answer : [Palindrome Integer](https://github.com/15999shivam/interviewQuestion/blob/master/PalindromeInteger.cpp)
+
+> Link: https://www.interviewbit.com/problems/palindrome-integer/
+
+---
