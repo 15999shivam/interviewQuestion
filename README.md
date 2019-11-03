@@ -190,3 +190,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/palindrome-integer/
 
 ---
+
+### Question 17
+
+<p>Greatest Common Divisor
+</p>
+
+> Answer : [Greatest Common Divisor](https://github.com/15999shivam/interviewQuestion/blob/master/GreatestCommonDivisor.cpp)
+
+> Link: https://www.interviewbit.com/problems/greatest-common-divisor/
+
+---
