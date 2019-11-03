@@ -168,3 +168,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/max-continuous-series-of-1s/
 
 ---
+
+### Question 15
+
+<p>FizzBuzz
+</p>
+
+> Answer : [FizzBuzz](https://github.com/15999shivam/interviewQuestion/blob/master/FizzBuzz.cpp)
+
+> Link: https://www.interviewbit.com/problems/fizzbuzz/
+
+---
