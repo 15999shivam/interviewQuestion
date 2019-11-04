@@ -300,3 +300,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/merge-two-sorted-lists/
 
 ---
+
+### Question 28
+
+<p>Rearrange Array
+</p>
+
+> Answer : [Rearrange Array](https://github.com/15999shivam/interviewQuestion/blob/master/RearrangeArray.cpp)
+
+> Link : https://www.interviewbit.com/problems/rearrange-array/
+
+---
