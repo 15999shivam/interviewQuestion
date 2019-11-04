@@ -267,3 +267,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/partition-list/
 
 ---
+
+### Question 25
+
+<p>Remove Duplicates from Sorted List
+</p>
+
+> Answer : [Remove Duplicates from Sorted List](https://github.com/15999shivam/interviewQuestion/blob/master/RemoveDuplicatesfromSortedList.cpp)
+
+> Link : https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/
+
+---
