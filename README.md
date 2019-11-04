@@ -256,3 +256,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/remove-nth-node-from-list-end/
 
 ---
+
+### Question 24
+
+<p>Partition List
+</p>
+
+> Answer : [Partition List](https://github.com/15999shivam/interviewQuestion/blob/master/PartitionList.cpp)
+
+> Link: https://www.interviewbit.com/problems/partition-list/
+
+---
