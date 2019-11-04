@@ -234,3 +234,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/reverse-link-list-ii/
 
 ---
+
+### Question 22
+
+<p>Rotate List
+</p>
+
+> Answer : [Rotate List](https://github.com/15999shivam/interviewQuestion/blob/master/RotateList.cpp)
+
+> Link: https://www.interviewbit.com/problems/rotate-list/
+
+---
