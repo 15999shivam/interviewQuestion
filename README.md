@@ -289,3 +289,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/
 
 ---
+
+### Question 27
+
+<p>Merge Two Sorted Lists
+</p>
+
+> Answer : [Merge Two Sorted Lists](https://github.com/15999shivam/interviewQuestion/blob/master/MergeTwoSortedLists.cpp)
+
+> Link : https://www.interviewbit.com/problems/merge-two-sorted-lists/
+
+---
