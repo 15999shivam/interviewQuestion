@@ -245,3 +245,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/rotate-list/
 
 ---
+
+### Question 23
+
+<p>Remove Nth Node from List End
+</p>
+
+> Answer : [Remove Nth Node from List End](https://github.com/15999shivam/interviewQuestion/blob/master/RemoveNthNodefromListEnd.cpp)
+
+> Link: https://www.interviewbit.com/problems/remove-nth-node-from-list-end/
+
+---
