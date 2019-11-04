@@ -311,3 +311,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/rearrange-array/
 
 ---
+
+### Question 29
+
+<p>Excel Column Number
+</p>
+
+> Answer : [Excel Column Number](https://github.com/15999shivam/interviewQuestion/blob/master/ExcelColumnNumber.cpp)
+
+> Link : https://www.interviewbit.com/problems/excel-column-number/
+
+---
