@@ -212,3 +212,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link: https://www.interviewbit.com/problems/trailing-zeros-in-factorial/
 
 ---
+
+### Question 20
+
+<p>Add Two Numbers as Lists
+</p>
+
+> Answer : [Add Two Numbers as Lists](https://github.com/15999shivam/interviewQuestion/blob/master/AddTwoNumbersAsLists.cpp)
+
+> Link: https://www.interviewbit.com/problems/add-two-numbers-as-lists/
+
+---
