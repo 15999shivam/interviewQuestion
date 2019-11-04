@@ -278,3 +278,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/
 
 ---
+
+### Question 26
+
+<p>Remove Duplicates from Sorted List
+</p>
+
+> Answer : [Remove Duplicates from Sorted List II](https://github.com/15999shivam/interviewQuestion/blob/master/RemoveDuplicatesfromSortedListII.cpp)
+
+> Link : https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/
+
+---
