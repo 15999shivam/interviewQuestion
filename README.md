@@ -355,3 +355,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/single-number/
 
 ---
+
+### Question 33
+
+<p>Palindrome String
+
+</p>
+
+> Answer : [Palindrome String](https://github.com/15999shivam/interviewQuestion/blob/master/PalindromeString.cpp)
+
+> Link : https://www.interviewbit.com/problems/palindrome-string/
+
+---
