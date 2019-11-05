@@ -344,3 +344,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/number-of-1-bits/
 
 ---
+
+### Question 32
+
+<p>Single Number
+</p>
+
+> Answer : [Single Number](https://github.com/15999shivam/interviewQuestion/blob/master/SingleNumber.cpp)
+
+> Link : https://www.interviewbit.com/problems/single-number/
+
+---
