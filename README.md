@@ -333,3 +333,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/grid-unique-paths/
 
 ---
+
+### Question 31
+
+<p>Number of 1 Bits
+</p>
+
+> Answer : [Number of 1 Bits](https://github.com/15999shivam/interviewQuestion/blob/master/Numberof1Bits.cpp)
+
+> Link : https://www.interviewbit.com/problems/number-of-1-bits/
+
+---
