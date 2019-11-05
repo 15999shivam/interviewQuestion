@@ -367,3 +367,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/palindrome-string/
 
 ---
+
+### Question 34
+
+<p>Min XOR value
+
+</p>
+
+> Answer : [Min XOR value](https://github.com/15999shivam/interviewQuestion/blob/master/MinXORvalue.cpp)
+
+> Link : https://www.interviewbit.com/problems/min-xor-value/
+
+---
