@@ -445,3 +445,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/identical-binary-trees/
 
 ---
+
+### Question 41
+
+<p>Sort List
+</p>
+
+> Answer : [Sort List](https://github.com/15999shivam/interviewQuestion/blob/master/SortList.cpp)
+
+> Link :https://www.interviewbit.com/problems/sort-list/
+
+---
