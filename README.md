@@ -456,3 +456,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/sort-list/
 
 ---
+
+### Question 42
+
+<p>Max Depth of Binary Tree
+</p>
+
+> Answer : [Max Depth of Binary Tree](https://github.com/15999shivam/interviewQuestion/blob/master/MaxDepthofBinaryTree.cpp)
+
+> Link :https://www.interviewbit.com/problems/max-depth-of-binary-tree/
+
+---
