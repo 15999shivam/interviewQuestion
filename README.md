@@ -478,3 +478,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/invert-the-binary-tree/
 
 ---
+
+### Question 44
+
+<p>Min Depth of Binary Tree
+</p>
+
+> Answer : [Min Depth of Binary Tree](https://github.com/15999shivam/interviewQuestion/blob/master/MinDepthofBinaryTree.cpp)
+
+> Link :https://www.interviewbit.com/problems/min-depth-of-binary-tree/
+
+---
