@@ -467,3 +467,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/max-depth-of-binary-tree/
 
 ---
+
+### Question 43
+
+<p>Invert the Binary Tree
+</p>
+
+> Answer : [Invert the Binary Tree](https://github.com/15999shivam/interviewQuestion/blob/master/InverttheBinaryTree.cpp)
+
+> Link :https://www.interviewbit.com/problems/invert-the-binary-tree/
+
+---
