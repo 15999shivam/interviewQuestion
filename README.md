@@ -489,14 +489,3 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/min-depth-of-binary-tree/
 
 ---
-
-### Question 45
-
-<p>Reverse Bits
-</p>
-
-> Answer : [Reverse Bits](https://github.com/15999shivam/interviewQuestion/blob/master/ReverseBits.cpp)
-
-> Link :https://www.interviewbit.com/problems/reverse-bits/
-
----
