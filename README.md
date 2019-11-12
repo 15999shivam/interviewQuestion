@@ -500,3 +500,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/reverse-bits/
 
 ---
+
+### Question 46
+
+<p>Preorder Traversal: iterative
+</p>
+
+> Answer : [Preorder Traversal](https://github.com/15999shivam/interviewQuestion/blob/master/PreorderTraversal.cpp)
+
+> Link :https://www.interviewbit.com/problems/preorder-traversal/
+
+---
