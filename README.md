@@ -533,3 +533,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/atoi/
 
 ---
+
+### Question 49
+
+<p>Path Sum
+</p>
+
+> Answer : [Path Sum](https://github.com/15999shivam/interviewQuestion/blob/master/PathSum.cpp)
+
+> Link :https://www.interviewbit.com/problems/path-sum/
+
+---
