@@ -511,3 +511,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/preorder-traversal/
 
 ---
+
+### Question 47
+
+<p>K reverse linked list
+</p>
+
+> Answer : [K reverse linked list](https://github.com/15999shivam/interviewQuestion/blob/master/Kreverselinkedlist.cpp)
+
+> Link :https://www.interviewbit.com/problems/k-reverse-linked-list/
+
+---
