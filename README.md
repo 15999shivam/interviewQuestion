@@ -522,3 +522,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/k-reverse-linked-list/
 
 ---
+
+### Question 48
+
+<p>Atoi
+</p>
+
+> Answer : [Atoi](https://github.com/15999shivam/interviewQuestion/blob/master/Atoi.cpp)
+
+> Link :https://www.interviewbit.com/problems/atoi/
+
+---
