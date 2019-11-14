@@ -544,3 +544,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/path-sum/
 
 ---
+
+### Question 50
+
+<p>Inorder Traversal : iterative
+</p>
+
+> Answer : [Inorder Traversal](https://github.com/15999shivam/interviewQuestion/blob/master/InorderTraversal.cpp)
+
+> Link :https://www.interviewbit.com/problems/inorder-traversal/
+
+---
