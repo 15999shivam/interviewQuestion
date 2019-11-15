@@ -555,3 +555,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/inorder-traversal/
 
 ---
+
+### Question 51
+
+<p>Nearest Smaller Element
+</p>
+
+> Answer : [Nearest Smaller Element](https://github.com/15999shivam/interviewQuestion/blob/master/NearestSmallerElement.cpp)
+
+> Link :https://www.interviewbit.com/problems/nearest-smaller-element/
+
+---
