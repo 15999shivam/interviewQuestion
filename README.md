@@ -566,3 +566,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/nearest-smaller-element/
 
 ---
+
+### Question 52
+
+<p>Symmetric Binary Tree
+</p>
+
+> Answer : [Symmetric Binary Tree](https://github.com/15999shivam/interviewQuestion/blob/master/SymmetricBinaryTree.cpp)
+
+> Link :https://www.interviewbit.com/problems/symmetric-binary-tree/
+
+---
