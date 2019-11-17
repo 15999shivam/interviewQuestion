@@ -621,3 +621,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/min-sum-path-in-matrix/
 
 ---
+
+### Question 57
+
+<p>Evaluate Expression
+</p>
+
+> Answer : [Evaluate Expression](https://github.com/15999shivam/interviewQuestion/blob/master/EvaluateExpression.cpp)
+
+> Link :https://www.interviewbit.com/problems/evaluate-expression/
+
+---
