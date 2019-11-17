@@ -610,3 +610,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-i/
 
 ---
+
+### Question 56
+
+<p>Min Sum Path in Matrix
+</p>
+
+> Answer : [Min Sum Path in Matrix](https://github.com/15999shivam/interviewQuestion/blob/master/MinSumPathinMatrix.cpp)
+
+> Link :https://www.interviewbit.com/problems/min-sum-path-in-matrix/
+
+---
