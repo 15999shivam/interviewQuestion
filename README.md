@@ -643,3 +643,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/length-of-longest-subsequence/
 
 ---
+
+### Question 59
+
+<p>Find Duplicate in Array
+</p>
+
+> Answer : [Find Duplicate in Array](https://github.com/15999shivam/interviewQuestion/blob/master/FindDuplicateinArray.cpp)
+
+> Link :https://www.interviewbit.com/problems/find-duplicate-in-array/
+
+---
