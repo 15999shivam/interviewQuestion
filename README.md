@@ -676,3 +676,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/length-of-last-word/
 
 ---
+
+### Question 62
+
+<p>Amazing Subarrays
+
+</p>
+
+> Answer : [Amazing Subarrays](https://github.com/15999shivam/interviewQuestion/blob/master/AmazingSubarrays.cpp)
+
+> Link :https://www.interviewbit.com/problems/amazing-subarrays/
+
+---
