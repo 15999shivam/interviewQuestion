@@ -654,3 +654,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/find-duplicate-in-array/
 
 ---
+
+### Question 60
+
+<p>Power of 2
+</p>
+
+> Answer : [Power of 2](https://github.com/15999shivam/interviewQuestion/blob/master/Powerof2.cpp)
+
+> Link :https://www.interviewbit.com/problems/power-of-2/
+
+---
