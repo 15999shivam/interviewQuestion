@@ -700,3 +700,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/different-bits-sum-pairwise/
 
 ---
+
+### Question 64
+
+<p>Largest Rectangle in Histogram
+
+</p>
+
+> Answer : [Largest Rectangle in Histogram](https://github.com/15999shivam/interviewQuestion/blob/master/LargestRectangleinHistogram.cpp)
+
+> Link :https://www.interviewbit.com/problems/largest-rectangle-in-histogram/
+
+---
