@@ -736,3 +736,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/rain-water-trapped/
 
 ---
+
+### Question 67
+
+<p>Postorder Traversal
+
+</p>
+
+> Answer : [Postorder Traversal](https://github.com/15999shivam/interviewQuestion/blob/master/PostorderTraversal.cpp)
+
+> Link :https://www.interviewbit.com/problems/postorder-traversal/
+
+---
