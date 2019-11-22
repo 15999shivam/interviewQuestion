@@ -748,3 +748,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/postorder-traversal/
 
 ---
+
+### Question 68
+
+<p>Kth Smallest Element In Tree
+
+</p>
+
+> Answer : [Kth Smallest Element In Tree](https://github.com/15999shivam/interviewQuestion/blob/master/KthSmallestElementInTree.cpp)
+
+> Link :https://www.interviewbit.com/problems/kth-smallest-element-in-tree/
+
+---
