@@ -760,3 +760,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/kth-smallest-element-in-tree/
 
 ---
+
+### Question 69
+
+<p>Intersection Of Sorted Arrays
+
+</p>
+
+> Answer : [Intersection Of Sorted Arrays](https://github.com/15999shivam/interviewQuestion/blob/master/IntersectionOfSortedArrays.cpp)
+
+> Link :https://www.interviewbit.com/problems/intersection-of-sorted-arrays/
+
+---
