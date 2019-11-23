@@ -772,3 +772,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/intersection-of-sorted-arrays/
 
 ---
+
+### Question 70
+
+<p>Container With Most Water
+
+</p>
+
+> Answer : [Container With Most Water](https://github.com/15999shivam/interviewQuestion/blob/master/ContainerWithMostWater.cpp)
+
+> Link :https://www.interviewbit.com/problems/container-with-most-water/
+
+---
