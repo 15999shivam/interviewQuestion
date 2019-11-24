@@ -796,3 +796,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/array-3-pointers/
 
 ---
+
+### Question 72
+
+<p>Minimize the absolute difference
+
+</p>
+
+> Answer : [Minimize the absolute difference](https://github.com/15999shivam/interviewQuestion/blob/master/Minimizetheabsolutedifference.cpp)
+
+> Link :https://www.interviewbit.com/problems/minimize-the-absolute-difference/
+
+---
