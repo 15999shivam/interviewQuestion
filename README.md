@@ -784,3 +784,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/container-with-most-water/
 
 ---
+
+### Question 71
+
+<p>Array 3 Pointers
+
+</p>
+
+> Answer : [Array 3 Pointers](https://github.com/15999shivam/interviewQuestion/blob/master/Array3Pointers.cpp)
+
+> Link :https://www.interviewbit.com/problems/array-3-pointers/
+
+---
