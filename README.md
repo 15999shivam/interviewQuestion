@@ -832,3 +832,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/unique-paths-in-a-grid/
 
 ---
+
+### Question 75
+
+<p>Jump Game Array
+
+</p>
+
+> Answer : [Jump Game Array](https://github.com/15999shivam/interviewQuestion/blob/master/JumpGameArray.cpp)
+
+> Link :https://www.interviewbit.com/problems/jump-game-array/
+
+---
