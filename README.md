@@ -820,3 +820,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/edit-distance/
 
 ---
+
+### Question 74
+
+<p>Unique Paths in a Grid
+
+</p>
+
+> Answer : [Unique Paths in a Grid](https://github.com/15999shivam/interviewQuestion/blob/master/UniquePathsinaGrid.cpp)
+
+> Link :https://www.interviewbit.com/problems/unique-paths-in-a-grid/
+
+---
