@@ -844,6 +844,7 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/jump-game-array/
 
 ---
+
 ### Question 76
 
 <p>Majority Element
@@ -853,5 +854,17 @@ In this Repository i upload one interview question everyday and link sources in 
 > Answer : [Majority Element](https://github.com/15999shivam/interviewQuestion/blob/master/MajorityElement.cpp)
 
 > Link :https://www.interviewbit.com/problems/majority-element/
+
+---
+
+### Question 77
+
+<p>Longest Increasing Subsequence
+
+</p>
+
+> Answer : [Longest Increasing Subsequence](https://github.com/15999shivam/interviewQuestion/blob/master/LongestIncreasingSubsequence.cpp)
+
+> Link :https://www.interviewbit.com/problems/longest-increasing-subsequence/
 
 ---
