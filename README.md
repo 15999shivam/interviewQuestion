@@ -904,3 +904,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/prettyprint/
 
 ---
+
+### Question 81
+
+<p>Longest Common Prefix
+
+</p>
+
+> Answer : [Longest Common Prefix](https://github.com/15999shivam/interviewQuestion/blob/master/LongestCommonPrefix.cpp)
+
+> Link :https://www.interviewbit.com/problems/longest-common-prefix/
+
+---
