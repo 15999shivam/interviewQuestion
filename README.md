@@ -940,3 +940,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/min-sum-path-in-triangle/
 
 ---
+
+### Question 84
+
+<p>Sliding Window Maximum
+
+</p>
+
+> Answer : [Sliding Window Maximum](https://github.com/15999shivam/interviewQuestion/blob/master/SlidingWindowMaximum.cpp)
+
+> Link : https://www.interviewbit.com/problems/sliding-window-maximum/
+
+---
