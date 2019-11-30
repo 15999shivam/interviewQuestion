@@ -712,3 +712,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/largest-rectangle-in-histogram/
 
 ---
+
+### Question 65
+
+<p>Simplify Directory Path
+
+</p>
+
+> Answer : [Simplify Directory Path](https://github.com/15999shivam/interviewQuestion/blob/master/SimplifyDirectoryPath.cpp)
+
+> Link :https://www.interviewbit.com/problems/simplify-directory-path/
+
+---
