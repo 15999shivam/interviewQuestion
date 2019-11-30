@@ -928,3 +928,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/reverse-the-string/
 
 ---
+
+### Question 83
+
+<p>Min Sum Path in Triangle
+
+</p>
+
+> Answer : [Min Sum Path in Triangle](https://github.com/15999shivam/interviewQuestion/blob/master/MinSumPathinTriangle.cpp)
+
+> Link : https://www.interviewbit.com/problems/min-sum-path-in-triangle/
+
+---
