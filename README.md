@@ -724,3 +724,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link :https://www.interviewbit.com/problems/simplify-directory-path/
 
 ---
+
+### Question 66
+
+<p>Rain Water Trapped
+
+</p>
+
+> Answer : [Rain Water Trapped](https://github.com/15999shivam/interviewQuestion/blob/master/RainWaterTrapped.cpp)
+
+> Link :https://www.interviewbit.com/problems/rain-water-trapped/
+
+---
