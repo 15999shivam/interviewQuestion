@@ -976,3 +976,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/single-number-ii/
 
 ---
+
+### Question 87
+
+<p>BST Iterator
+
+</p>
+
+> Answer : [BST Iterator](https://github.com/15999shivam/interviewQuestion/blob/master/BSTIterator.cpp)
+
+> Link : https://www.interviewbit.com/problems/bst-iterator/
+
+---
