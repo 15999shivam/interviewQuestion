@@ -1048,6 +1048,7 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/assign-mice-to-holes/
 
 ---
+
 ### Question 93
 
 <p>Max Sum Contiguous Subarray
@@ -1057,5 +1058,17 @@ In this Repository i upload one interview question everyday and link sources in 
 > Answer : [Max Sum Contiguous Subarray](https://github.com/15999shivam/interviewQuestion/blob/master/MaxSumContiguousSubarray.cpp)
 
 > Link : https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+
+---
+
+### Question 94
+
+<p>Add Binary Strings
+
+</p>
+
+> Answer : [Add Binary Strings](https://github.com/15999shivam/interviewQuestion/blob/master/AddBinaryStrings.cpp)
+
+> Link : https://www.interviewbit.com/problems/add-binary-strings/
 
 ---
