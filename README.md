@@ -1072,3 +1072,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/add-binary-strings/
 
 ---
+
+### Question 95
+
+<p>Balanced Binary Tree
+
+</p>
+
+> Answer : [Balanced Binary Tree](https://github.com/15999shivam/interviewQuestion/blob/master/BalancedBinaryTree.cpp)
+
+> Link : https://www.interviewbit.com/problems/balanced-binary-tree/
+
+---
