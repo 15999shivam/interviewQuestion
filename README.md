@@ -1084,3 +1084,14 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/balanced-binary-tree/
 
 ---
+
+### Question 96
+
+<p>ZigZag Level Order Traversal BT
+</p>
+
+> Answer : [ZigZag Level Order Traversal BT](https://github.com/15999shivam/interviewQuestion/blob/master/ZigZagLevelOrderTraversalBT.cpp)
+
+> Link : https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
+
+---
