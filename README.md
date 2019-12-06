@@ -1095,3 +1095,13 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/zigzag-level-order-traversal-bt/
 
 ---
+### Question 97
+
+<p>Populate Next Right Pointers Tree
+</p>
+
+> Answer : [Populate Next Right Pointers Tree](https://github.com/15999shivam/interviewQuestion/blob/master/PopulateNextRightPointersTree.cpp)
+
+> Link : https://www.interviewbit.com/problems/populate-next-right-pointers-tree/
+
+---
