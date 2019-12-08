@@ -1140,3 +1140,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/matrix-search/
 
 ---
+
+### Question 101
+
+<p>Search for a Range
+
+</p>
+
+> Answer : [Search for a Range](https://github.com/15999shivam/interviewQuestion/blob/master/SearchforaRange.cpp)
+
+> Link : https://www.interviewbit.com/problems/search-for-a-range/
+
+---
