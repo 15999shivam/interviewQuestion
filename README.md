@@ -1128,3 +1128,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/longest-palindromic-substring/
 
 ---
+
+### Question 100
+
+<p>Matrix Search
+
+</p>
+
+> Answer : [Matrix Search](https://github.com/15999shivam/interviewQuestion/blob/master/MatrixSearch.cpp)
+
+> Link : https://www.interviewbit.com/problems/matrix-search/
+
+---
