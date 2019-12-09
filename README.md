@@ -1152,3 +1152,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/search-for-a-range/
 
 ---
+
+### Question 102
+
+<p>NQueens
+
+</p>
+
+> Answer : [NQueens](https://github.com/15999shivam/interviewQuestion/blob/master/NQueens.cpp)
+
+> Link : https://www.interviewbit.com/problems/nqueens/
+
+---
