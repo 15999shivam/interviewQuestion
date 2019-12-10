@@ -1164,3 +1164,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/nqueens/
 
 ---
+
+### Question 103
+
+<p>Colorful Number
+
+</p>
+
+> Answer : [Colorful Number](https://github.com/15999shivam/interviewQuestion/blob/master/ColorfulNumber.cpp)
+
+> Link : https://www.interviewbit.com/problems/colorful-number/
+
+---
