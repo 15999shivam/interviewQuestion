@@ -1188,3 +1188,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/longest-substring-without-repeat/
 
 ---
+
+### Question 105
+
+<p>2 Sum
+
+</p>
+
+> Answer : [2 Sum](https://github.com/15999shivam/interviewQuestion/blob/master/2Sum.cpp)
+
+> Link : https://www.interviewbit.com/problems/2-sum/
+
+---
