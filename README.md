@@ -1200,3 +1200,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/2-sum/
 
 ---
+
+### Question 106
+
+<p>Square Root of Integer
+
+</p>
+
+> Answer : [Square Root of Integer](https://github.com/15999shivam/interviewQuestion/blob/master/SquareRootofInteger.cpp)
+
+> Link : https://www.interviewbit.com/problems/square-root-of-integer/
+
+---
