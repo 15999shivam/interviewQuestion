@@ -1212,3 +1212,15 @@ In this Repository i upload one interview question everyday and link sources in 
 > Link : https://www.interviewbit.com/problems/square-root-of-integer/
 
 ---
+
+### Question 106
+
+<p>Kth Row of Pascal's Triangle
+
+</p>
+
+> Answer : [Kth Row of Pascal's Triangle](https://github.com/15999shivam/interviewQuestion/blob/master/KthRowofPascalsTriangle.cpp)
+
+> Link :https://www.interviewbit.com/problems/kth-row-of-pascals-triangle/
+
+---
